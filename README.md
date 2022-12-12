@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning at the Department of Theoretical Physics (Applied Physics and Nanomaterials)
 
-- 💞️ I want to work with companies that are interested in creating or improving machine learning algorithms
-
 - 📫 How to reach me: Telegram: @MagnumGrizzly; Email: dudols2000@gmail.com
 
 
